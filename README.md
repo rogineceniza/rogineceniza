@@ -2,9 +2,9 @@
 <div align="center">
   <img src="./assets/rainy-desk.gif" alt="Rainy desk by a window: laptop, coffee, plants, and soft fairy lights" width="100%" />
 
-  <h1>hey, i'm Rogine 👋</h1>
-  <h3>Computer Engineering student · software + hardware tinkerer</h3>
-  <p><i>Somewhere between writing code, wiring circuits, and waiting for the rain to stop.</i></p>
+  <h1>hey, i'm Rogine — welcome to my rainy corner 🌧️</h1>
+  <h3>Computer Engineering student · learning through code and circuits</h3>
+  <p><i>Rain at the window, a project on the desk, and one more thing to figure out.</i></p>
 
   <a href="https://github.com/rogineceniza"><img src="https://img.shields.io/badge/GitHub-rogineceniza-202b32?style=flat-square&amp;logo=github&amp;logoColor=e6d6c4" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=rogineceniza&amp;label=visitors&amp;color=547079&amp;style=flat-square" alt="Profile views" />
@@ -21,24 +21,24 @@ education: BS Computer Engineering
 
 currently:
   exploring:
-    - Web development and interactive interfaces
-    - Embedded systems and microcontrollers
-    - Programming, hardware, and software integration
+    - Building web interfaces that people can use
+    - Getting sensors, microcontrollers, and code to work together
+    - Understanding what happens behind the screen
   tinkering_with:
-    - Arduino and ESP8266 projects
-    - C, Python, JavaScript, and more
-    - Ideas that started as "this should be easy"
+    - Arduino, ESP8266, and a desk full of jumper wires
+    - C, Python, and JavaScript, one project at a time
+    - Small ideas that somehow become weekend projects
 
 interests:
-  - Useful little projects
-  - Code that talks to hardware
-  - Learning by building (and debugging)
-  - Rainy evenings and cozy desk setups
+  - Making something useful out of what I learn
+  - Seeing a circuit respond to code
+  - Figuring things out by building and breaking them
+  - Quiet evenings, rainy windows, and a glowing screen
 
-status: "probably debugging something"
+status: "one more fix before calling it a night"
 ```
 
-> **Current objective:** build things that work in the real world, not just on the screen.
+> **What I’m working toward:** turning the things I’m learning into projects I can use, explain, and improve.
 
 <br />
 
@@ -57,43 +57,43 @@ status: "probably debugging something"
 </p>
 
 ```text
-Debugging       █████████░   almost a second major
-Coffee          ████████░░   helpful in theory
-Open tabs       ██████████   no comment
-Sleep           ███░░░░░░░   needs optimization
+Debugging       █████████░   one more fix, I promise
+Coffee          ████████░░   forgot it on the desk again
+Open tabs       ██████████   the answer is in one of these
+Sleep           ███░░░░░░░   after this last bug
 ```
 
 <br />
 
 ## `./projects`
 
-A few things I’m building and exploring.
+This is where the lessons turn into interfaces, circuits, and prototypes. Some are experiments; some still need another evening at the desk.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🔐 Fingerprint Booth Security</h3>
-      <p>A Computer Engineering research concept involving one-time fingerprint access, compartment status, and SMS alerts.</p>
+      <p>A research concept exploring fingerprint access for a booth, with compartment monitoring and SMS alerts. A chance to bring access control, sensors, and code together.</p>
       <p><b>Tech:</b> <code>Arduino</code> <code>Fingerprint Sensor</code> <code>GSM</code></p>
-      <p><i>Research / prototype work</i></p>
+      <p><i>Research concept · prototype exploration</i></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Web Experiments</h3>
-      <p>Interfaces, small interactive features, and browser-side JavaScript experiments.</p>
+      <p>My space for learning how the web works: building interfaces, adding interactions, and figuring out why the browser did that.</p>
       <p><b>Tech:</b> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://github.com/rogineceniza?tab=repositories">Browse repositories</a>
+      <a href="https://github.com/rogineceniza?tab=repositories">Look around my repositories</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🔌 Microcontroller Builds</h3>
-      <p>Experiments with sensors, actuators, embedded logic, and Wi-Fi controls.</p>
+      <p>Connecting sensors and actuators, trying out Wi-Fi controls, and learning what it takes to make software work beyond the screen.</p>
       <p><b>Tech:</b> <code>Arduino</code> <code>ESP8266</code> <code>C/C++</code></p>
-      <a href="https://github.com/rogineceniza?tab=repositories">Explore my work</a>
+      <a href="https://github.com/rogineceniza?tab=repositories">See what I’m tinkering with</a>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Still Brewing...</h3>
-      <p>A few ideas, a few unfinished branches, and at least one mysterious bug.</p>
+      <h3>☁️ On the Desk</h3>
+      <p>The next idea usually starts with “what if?” and ends with a few more tabs open. This corner is for whatever I try next.</p>
       <pre><code>while (curious) {
   learn();
   build();
@@ -112,7 +112,7 @@ A few things I’m building and exploring.
   <a href="https://github.com/rogineceniza/rogineceniza/commits/main/">Profile commit history</a>
 </p>
 
-<p align="center"><sub>The stats cards are taking a rain check. For now, my repositories have the latest code.</sub></p>
+<p align="center"><sub>A trail of experiments, small fixes, and things I finally got working. Browse the repositories to see what’s on the desk.</sub></p>
 
 <!-- Stats-card endpoints returned HTTP 503 during review. Restore when available.
 <div align="center">
@@ -122,10 +122,10 @@ A few things I’m building and exploring.
 Repository language stats reflect code in repositories, rather than time spent coding.
 -->
 
-### A little city made of commits
+### A city for the rainy window
 
 <div align="center">
-  <p><i>Still under construction — the contribution city will appear here once its generator is set up.</i></p>
+  <p><i>An isometric contribution city belongs here. Its generator still needs setting up; for now, consider this an empty lot with a good view.</i></p>
   <!-- Restore the image below only after the generator and its output exist:
   <img src="./assets/rainy-city.svg" width="95%" alt="An isometric city showing my GitHub contributions" />
   -->
@@ -137,27 +137,27 @@ Repository language stats reflect code in repositories, rather than time spent c
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<sub>Coding log coming soon, once my editor and the WakaTime workflow are connected.</sub>
+<sub>The coding notebook is still blank here. It will fill in once WakaTime and its update workflow are connected.</sub>
 
 <br />
 
 ## `side_quests`
 
-<p align="center"><i>Because apparently Computer Engineering wasn't enough.</i></p>
+<p align="center"><i>A few things happening between builds.</i></p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Currently attempting</h3>
-      <p>🪴 Keeping plants alive (the real endurance test)</p>
-      <p>☕ Drinking coffee before it gets cold</p>
-      <p>🧩 Understanding code I wrote yesterday</p>
+      <h3>Between debugging sessions</h3>
+      <p>🪴 Remembering the plants need attention too</p>
+      <p>☕ Finding the coffee I made an hour ago</p>
+      <p>🧩 Reading yesterday’s code like someone else wrote it</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Recurring quests</h3>
-      <p>🌧️ Finding the perfect rainy coding playlist</p>
-      <p>🐛 Fixing one bug without creating three</p>
-      <p>💻 Closing unnecessary browser tabs</p>
+      <h3>Same quests, different evening</h3>
+      <p>🌧️ Finding a playlist that goes with the rain</p>
+      <p>🐛 Making a small fix that stays a small fix</p>
+      <p>💻 Closing tabs, then opening them again</p>
     </td>
   </tr>
 </table>
@@ -166,14 +166,14 @@ Repository language stats reflect code in repositories, rather than time spent c
   <img src="./assets/debugging-meme.svg" width="88%" alt="Late-night debugging meme" />
   <br />
   <img src="https://media1.tenor.com/m/F5y9T_XYx9AAAAAd/disassociation-cat-memes.gif" width="48%" alt="A relatable cat meme GIF" />
-  <p><sub>me when the code works and i don't know why</sub></p>
+  <p><sub>it works. now to figure out which change fixed it.</sub></p>
 </div>
 
 <br />
 
 ## `./contact`
 
-If you enjoy building things, breaking them, and figuring out how they work, we'll probably get along.
+Working on something with code, circuits, or a bit of both? I’m always up for comparing notes and learning how other people build things.
 
 <p>
   <a href="https://github.com/rogineceniza"><img src="https://img.shields.io/badge/Find_me_on_GitHub-24343d?style=for-the-badge&amp;logo=github&amp;logoColor=e2d2bd" alt="GitHub profile" /></a>
@@ -182,6 +182,6 @@ If you enjoy building things, breaking them, and figuring out how they work, we'
 ---
 
 <div align="center">
-  <p><i>It's raining outside. The code can wait five minutes.</i></p>
-  <sub>Thanks for stopping by my tiny corner of the internet ☕ 🌧️</sub>
+  <p><i>Saving my work. Leaving the rain on.</i></p>
+  <sub>Thanks for spending a little time at my desk. See you around ☕ 🌧️</sub>
 </div>
